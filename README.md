@@ -41,8 +41,4 @@ The dataset includes client information such as age, job, marital status, educat
 
 Modeling results and evaluation metrics are described within the notebook.
 
----
 
-**Author**: Your Name  
-**License**: MIT  
-**Data Source**: UCI Machine Learning Repository - Bank Marketing Dataset
